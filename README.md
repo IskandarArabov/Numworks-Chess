@@ -13,4 +13,19 @@ You can emulate the script on your computer by installing the [kandinsky](https:
 ```bash
 pip install kandinsky ion-numworks # or equivalent on your os
 ```
-You can consider using an python env (venv per example).
+You can consider using a python env (venv per example).
+
+## Contribution
+This is a one-file project because we won't load multiple files for one game on the calculator.
+This is not a POO project because I think it would need too much memory for the calculator (so yeah unfortunately it's spaghetti code).
+
+
+### Progress tree
+- [x] Basic moves
+- [x] Advanced moves
+  - [x] En passant
+  - [ ] Castle
+  - [ ] Pawn promotion
+- [ ] Others
+  - [x] Attacking detection
+  - [ ] Check system
