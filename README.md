@@ -17,7 +17,8 @@ You can emulate the script on your computer by installing the [kandinsky](https:
 ```bash
 pip install kandinsky ion-numworks # or equivalent on your os
 ```
-You can consider using a python env (venv per example).
+#### Info
+> You can consider using a python env (venv per example).
 
 ## Contribution
 This is a one-file project because we won't load multiple files for one game on the calculator.
