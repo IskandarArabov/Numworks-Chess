@@ -1,2 +1,17 @@
 # Numworks-Chess
-A numworks chess game in python
+A chess game in python for the numworks calculator
+
+Development is on going
+
+## Installation
+You can load the script on your calculator from the [script on numworks site](https://my.numworks.com/python/iskandar/chess).
+
+Some browsers don't support WebUSB (which is used by numworks for loading on the calculator) as Firefox or Safari.
+You can find [here](https://caniuse.com/webusb) the browsers that provide this api.
+
+## Emulation
+You can emulate the script on your computer by installing the [kandinsky](https://github.com/ZetaMap/Kandinsky-Numworks) and [ion-numworks](https://github.com/ZetaMap/Ion-numworks) python modules (module which are initally native numworks modules for graphics and keyboard input on the calculator).
+```bash
+pip install kandinsky ion-numworks # or equivalent on your os
+```
+You can consider using an python env (venv per example).
