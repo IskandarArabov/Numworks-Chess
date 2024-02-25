@@ -1,7 +1,6 @@
 # Numworks-Chess
 A chess game in python for the numworks calculator
-
-Development is on going
+Development is not finished !
 
 ## Installation
 You can load the script on your calculator from the [script on numworks site](https://my.numworks.com/python/iskandar/chess).
